@@ -4,13 +4,13 @@ _Padfield et al. (2020) Evolution of diversity explains the impact of pre-adapta
 
 **If you would like access to the paper and do not have it, please email me on d.padfield@exeter.ac.uk**
 
-DOI of paper:
+Link to read paper: https://rdcu.be/b9q7X
 
-DOI of preprint:
+DOI of paper: https://doi.org/10.1038/s41396-020-00755-3
 
 DOI of analyses and dataset: 
 
-Link to raw sequencing files:
+Link to raw sequencing files: https://www.ebi.ac.uk/ena/browser/view/PRJEB40882
 
 ### Outline
 
@@ -26,7 +26,6 @@ This code is licensed under GPL-3.
 
 ### Notes
 
-- Due to coronavirus - and my very slow home internet - I have not uploaded the raw sequencing files (both WGS of SBW25 clones and amplicon 16S community profiling) to the European Nucleotide Archive yet. I aim to do this as soon as possible and will update this repository accordingly.
 - The bioinformatics pipeline for calling genetic variants from the raw whole genome sequencing data is provided in `scripts/clone_sequencing_pipeline.sh`. The vcf output was then imported to R and the final dataset `data/genetic_changes.csv` was produced. This R code is not present in the repository. Please contact me as above if you would like to see this code and the intermediate vcf files outputted by [freebayes](https://github.com/ekg/freebayes).
 - The pipeline for processing amplicon 16S sequences is available [here](https://github.com/padpadpadpad/AB_dada2_pipeline_R).
 
