@@ -8,7 +8,7 @@ Link to read paper: https://rdcu.be/b9q7X
 
 DOI of paper: https://doi.org/10.1038/s41396-020-00755-3
 
-DOI of analyses and dataset: 
+DOI of analyses and dataset: https://doi.org/10.5281/zenodo.4155150
 
 Link to raw sequencing files: https://www.ebi.ac.uk/ena/browser/view/PRJEB40882
 
